@@ -67,6 +67,9 @@ button {
     font-size: x-large;
     font-weight: bolder;
     background-color: #22222c;
+}
+
+.buttons a {
     color: #ffffff;
 }
 
