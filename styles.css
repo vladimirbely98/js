@@ -90,6 +90,11 @@ a {
     color: #22222c
 }
 
+a:hover {
+    opacity: 1;
+    color: rgb(203, 161, 8);
+}
+
 .footer {
     width: 100%;
     height: 50px;
